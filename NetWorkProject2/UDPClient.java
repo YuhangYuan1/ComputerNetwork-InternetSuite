@@ -216,7 +216,6 @@ class UDPClient
 
 	 else if(choice == 'f' || choice == 'F')
          {
-;
             clientSocket.close();
             end = true;
          }
