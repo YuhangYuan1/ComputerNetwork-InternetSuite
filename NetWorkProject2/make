@@ -1,0 +1,10 @@
+echo "Compiling UDPServer.java!..."
+javac UDPServer.java
+
+echo "Compiling UDPClient.java!..."
+javac UDPClient.java
+
+echo "Compile Finished!"
+
+#java UDPServer.java 
+#java UDPClient
